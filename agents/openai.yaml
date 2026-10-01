@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 338"
+  short_description: "栅格残徽：上半保留原照，下半把主体收成强剪影里只留一个异常点的栅格徽记"
+  default_prompt: "Use $xxd-panel-338 to transform my photograph following the complete canonical source brief."
